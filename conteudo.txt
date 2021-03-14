@@ -1,0 +1,39 @@
+-Clinica
+nomeClinica
+cnpj
+razaoSocial
+endereço
+horarioFuncionamento
+
+-usuario
+email
+senha
+
+-tipo de usuario
+tipoDeUsuario
+
+-paciente
+nomePaciente
+dataNascimento
+telefone
+rg
+cpf
+endereço
+
+-medico
+nomeMedico
+crm
+
+
+-especialidades
+tipo de especialidade
+
+-consulta
+paciente
+medico
+data da consulta
+descrição da consulta
+
+-estado da consulta
+estado da consulta(agendada, cancelada, realizada)
+
